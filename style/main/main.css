@@ -1,0 +1,115 @@
+body {
+    background: #12090A;
+}
+
+div.container {
+    margin: auto;
+    width: 1000px;
+    /* border: 3px solid #7B160F;*/
+
+}
+
+header {
+    background: #BC4E0F url(dc-header.png) no-repeat;
+    min-height: 400px;
+
+}
+
+/*
+header h1 {
+    padding-left: 20px;
+	padding-top: 15px;
+	font-family:Verdana, Geneva, sans-serif;
+    font-size: 60px;
+	color: #FAF0CE;
+}
+
+header img {
+    padding-left: 50px;
+	padding-top: 60px;
+}
+
+*/
+
+#headertexttop {
+    padding-left: 5px;
+	padding-top: 15px;
+}
+
+#headertextbottom {
+
+    padding-left: 50px;
+	padding-top: 130px;
+}
+
+
+main {
+    background: #CAECC7 url(greenbubble-main-background.png) no-repeat;
+    min-height: 300px;
+
+}
+
+/*main img {
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+    border-radius: 50%;
+}
+*/
+
+main img {
+    padding-left: 20px;
+    border-radius: 10%;
+}
+
+/*
+main figure {
+    float: right;
+    padding-top: 5px;
+    padding-right: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+*/
+
+
+.figureleft {
+    float: right;
+    padding-top: 5px;
+    padding-right: 10px;
+    margin: 0px 0px 0px 0px;
+
+}
+
+.figureright {
+    float: left;
+    padding-top: 5px;
+    padding-right: 10px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+main figcaption {
+    font-family:Verdana, Geneva, sans-serif;
+    font-size: 30px;
+    padding-left: 10px;
+	color: #FAF0CE;
+}
+
+
+main p {
+	font-family:Verdana, Geneva, sans-serif;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 28px;
+	color: #FAF0CE;
+}
+
+footer p {
+    font-family:Verdana, Geneva, sans-serif;
+    padding-top: 0px;
+    padding-left: 5px;
+    font-size: 16px;
+	color: #FAF0CE;
+}
